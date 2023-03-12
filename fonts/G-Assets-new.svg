@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="75" viewBox="0 0 320 75">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css?family=Muli:300,400,700,800,900');
+      .cls-1, .cls-2, .cls-4, .cls-5, .cls-6 {
+      fill: #981f2b;
+      }
+
+      .cls-2 {
+      font-size: 225.783px;
+      text-anchor: middle;
+      }
+
+      .cls-2, .cls-3 {
+      font-family: 'Muli', sans-serif;
+      }
+
+      .cls-3 {
+      font-size: 88.547px;
+      fill: #fff;
+      }
+
+      .cls-4 {
+      fill-rule: evenodd;
+      }
+
+      .cls-5 {
+      font-size: 141.111px;
+      }
+
+      .cls-5, .cls-6 {
+      font-family: 'Muli', sans-serif;
+      }
+
+      .cls-6 {
+      font-size: 84.667px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="7.094" y="47.063" width="117.25" height="18.344"/>
+  <text id="CATS" class="cls-2" transform="translate(65.491 41.258) scale(0.2 0.199)"><tspan x="0">CATS</tspan></text>
+  <text id="G" class="cls-3" transform="translate(10.967 61.857) scale(0.2 0.199)">G</text>
+  <text id="I" class="cls-3" transform="translate(36.934 61.857) scale(0.2 0.199)">I</text>
+  <text id="M" class="cls-3" transform="translate(103.849 61.857) scale(0.2 0.199)">M</text>
+  <text id="A" class="cls-3" transform="translate(78.881 61.857) scale(0.2 0.199)">A</text>
+  <text id="T" class="cls-3" transform="translate(55.71 61.857) scale(0.2 0.199)">T</text>
+  <path class="cls-4" d="M133.736,9h0.8V66h-0.8V9Z"/>
+  <text id="G-Assets" class="cls-5" transform="translate(140.937 36.220) scale(0.2 0.199)">Online Certificates</text>
+  <text id="Assets_portal" data-name="Assets portal" class="cls-6" transform="translate(142.436 59.077) scale(0.2 0.199)">Certificates portal</text>
+</svg>
